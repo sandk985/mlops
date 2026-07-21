@@ -3,9 +3,6 @@
 Train Irish dataset with Random Forest classifier and save the model as pickle file (pkl)
 https://colab.research.google.com/drive/17Bhz-550dA0DK0NTkThq0r36kZItphVN#scrollTo=nY13mA0yFqem
 
-
-**Model serving**
-
 Streamlit calculator app
 https://colab.research.google.com/drive/1d5EbroYyS5odiuxa-_AsyI5tEQOvsOFR
 
