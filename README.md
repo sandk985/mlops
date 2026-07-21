@@ -4,6 +4,11 @@ Train Irish dataset with Random Forest classifier
 https://colab.research.google.com/drive/17Bhz-550dA0DK0NTkThq0r36kZItphVN#scrollTo=nY13mA0yFqem
 
 **Model serving**
+Streamlit
+
+https://colab.research.google.com/drive/1Vx80pibwvbRHNexP4xr9wk-2g14AAODB
+
+Flask
 https://colab.research.google.com/drive/1Vx80pibwvbRHNexP4xr9wk-2g14AAODB
 
 Fast API
